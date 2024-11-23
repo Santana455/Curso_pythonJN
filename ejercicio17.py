@@ -3,4 +3,5 @@ def cuadrado(lista):
     for i in lista:
         listacuadrado.append(i**2)
     return listacuadrado
-)
+
+
